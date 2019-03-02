@@ -6,11 +6,12 @@ if side % 2 == 0:
     print("Panjang isi harus ganjil")
 
 else:
-    # index vertical
+    # row
     for i in range (side):
-        # index horizontal
+        # column
         for j in range (side):
-            if i == ((side - 1) / 2) or j == ((side - 1) / 2):
+            if i == ((side - 1) / 2) or j == ((side - 1) / 2) \
+                    or (i | j == 0 or i | j == side - 1):
                 print("*", end='')
             else:
                 print("=", end='')
