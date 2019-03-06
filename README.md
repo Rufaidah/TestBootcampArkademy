@@ -4,7 +4,7 @@ Direktori ini berisi tentang jawaban dari test untuk mengikuti bootcamp arkademy
 
 
 ### Tools dan Bahasa yang Digunakan
-* Untuk menyelesaikan algoritma menggunakan bahasa pemograman python
+* Untuk menyelesaikan algoritma menggunakan bahasa pemograman python3
 * Untuk database menggunakan MySql.
 * Untuk tampilan web menggunakan CDN bootstrap.
 
@@ -19,5 +19,5 @@ cd direktoriTujuan
 
 #### Jalankan file.py
 ```json
-python namaFile.py
+python3 namaFile.py
 ```
