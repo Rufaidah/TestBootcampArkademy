@@ -1,5 +1,5 @@
 # TestBootcampArkademy
-Direktori ini berisi tentang jawaban dari test untuk mengikuti bootcamp arkademy
+Direktori ini berisi tentang jawaban dari test untuk mengikuti bootcamp arkademy kloter pertama
 
 
 
